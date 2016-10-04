@@ -1,0 +1,36 @@
+<div class="home-main">
+    <div class="container">
+        <div class="banner-contnt banner-md main-bnnr">
+            <div class="main-logo">
+                <%= image_tag "logo.png", width: "247" %>
+            </div>    
+            <p>Fresh Meals</p>
+            <h1>FROM OUR KITCHEN <br>TO YOUR TABLE </h1>
+            <p>We Bring Dinner Right to Your Door</p>
+            <form class="addrs-form">
+                <ul>
+                    <li class="field-lg">
+                        <input type="text" placeholder="Email Address " class="addr-field">
+                    </li>
+                    <li class="field-sm zip-full mrgn-none">
+                        <input type="text" class="addr-field" placeholder="Zip Code">
+                    </li>
+                    <li class="aply-btn see-menu">
+                       
+                        <%= link_to "See the Menu", { :controller => "daily_menu", :action => "index"}, class: 'apply-bttn addres-btn menu-btn1' %>
+                        <a href="#" class="menu-btn2"><span><i class="fa fa-facebook" aria-hidden="true"></i></span>Continue with facebook
+                        </a>
+                    </li> 
+                    <p class="login-txt">if you have already account then <a href="#">login here</a><br><br>
+                    By clicking "See the Menu" or "Continue with Facebook" <br>you agree to our <a href="#">Terms & Conditions</a></p>
+                </ul>    
+            </form>
+        </div>
+    </div>
+</div>  
+    
+<footer class="black-footer">
+    <a href="#">About Us</a>
+    <a href="#">How It Works</a>
+    <a href="#">Service Areas</a>
+</footer> 

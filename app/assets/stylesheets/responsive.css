@@ -1,0 +1,653 @@
+@media screen and (max-width:1199px){
+    .logo{ left: 35%;}
+    .banner-sec, .feed-more-sec{ padding: 150px 0; background-size: cover; background-position: top;}
+    .banner-contnt h1{ font-size: 50px; line-height: 50px;}
+    .banner-contnt{ width: 400px; padding-top: 40px;}
+    .feed-more-cont{ width: 460px;}
+    .membrshp-innr { padding: 40px 30px 40px 0;}
+    .content-sec h1, .faq-sec h1, .about-sec-1 h1{ font-size: 26px;}
+    .dinr-kit{ padding-right: 0; width: 93%;}
+    .post-info{ margin-top: 25px;}
+    .availblty-sec{ width: 50%;}
+    .sec-3{ padding: 40px 0;}
+    .faq-sec{ padding: 50px 0 30px;}
+    .faq-content{ margin-top: 40px;}
+    .faq-content li{ min-height: 92px;}
+    .ft-links h5{ margin-bottom: 10px;}
+    .ft-links li a{ line-height: 28px;}
+    .footer-sec{ padding: 40px 0 35px;} 
+    .food-info br{ display: none;}
+    .story-outr{ width: 74%; margin: 40px auto 50px;}
+    .story-sec{ padding: 50px 0;}
+    .team-gallery, .mmbr-info{ margin-top: 40px;}
+    .gallery-box img{ width: 100%;}
+    .team-mmbr{ padding: 50px 0 30px;}
+    .team-eat{ padding-bottom: 60px;}
+    .service-banner{ background-size: cover; padding: 50px 0;}
+    .banner-contnt p{ font-size: 16px;}
+    .banner-contnt h1{ margin-bottom: 10px;}
+    .states-sec{ padding: 50px 0 10px;}
+    .state-bx-outer{ margin-top: 25px;}
+    .state-bx{ padding: 35px 0 0 40px;}
+    .apply-form .aply-input{ height: 38px; padding: 0 15px;}
+    .selct-bx{ padding: 0 10px !important;}
+    .aply-btn{ margin-top: 10px;}
+    .video-txt br{ display: none;}
+    .video-txt{ padding: 50px 0 0;}
+    .access-bx-outr{ margin-top: 40px;}
+    .join-team{ padding: 40px 0;}
+    .join-form h1{ margin-top: 0;}
+    .apply-bttn{ height: 38px; line-height: 38px; font-size: 16px;}
+    .banner-lrg{ width: 70%; padding: 40px;}
+    .banner-lrg h1 br{ display: none;}
+    .min-sec{ background-size: 42%; }
+    .min-content{ background-size: 50%; padding: 50px 0 60px;}
+    .upcoming-sec{ padding: 50px 0;}
+    .meal-block{ margin-top: 40px;}
+    .faq-content h5{ font-size: 16px;}
+    .banner-md h1{ font-size: 36px; line-height: 40px; margin-top: 0;}
+    .banner-md{ width: 50%; padding-bottom: 40px;}
+    .food-box-outr{ padding: 40px 0;}
+    .food-box-rt{ padding: 40px 35px 0; min-height: 100%;}
+    .credit-box{ padding: 0 20px;}
+    .signup-sec h4{ font-size: 16px;}
+    .signup-sec{ padding-bottom: 50px;}
+    .credit-box p{ margin-bottom: 0;}
+    .contact-btn{ margin-top: 0;}
+    .addrs-form li{ margin-top: 10px;}
+    .blank-banner{ padding: 30px 0;}
+    .banner-innr h1{ font-size: 36px;}
+    .press-sec{ padding: 40px 0 30px;}
+    .post-content .post-title{ font-size: 20px; line-height: 24px;}
+    .date{ width: 60px; height: 60px; padding: 10px; font-size: 14px;}
+    .date strong{ font-size: 24px;}
+    .cart-main{ width: 66px;}
+    .main-dish{ padding: 40px 0 20px;}
+    .menu-headng h1{ margin-bottom: 0;}
+    .dish-thumb img { width: 100%;}
+    .dish-outer{ margin-top: 20px;}
+    .filter-item li, .filter-item li a{ line-height: 40px;}
+    .dish-img img{ width: 100%;}
+    .dish-detail h2{ font-size: 26px;}
+    .tab-head li > a{ padding: 6px 20px; font-size: 14px;}
+    .tab-infor{ padding: 20px; min-height: 200px;}
+    .relat-box h3{ margin-top: 0;}
+    .dish-info p{ font-size: 14px;}
+    .dish-info h4{ font-size: 20px;}
+    .review-sec{ width: 100%; padding-top: 0;}
+    .reviews{ margin-top: 20px;}
+    .load-btn{ margin:20px 0 0;}
+    .menu-filter{ padding: 10px 0;}
+    .dish-detail{ padding: 0;}
+    .apply-bttn, .cart-btn{ font-size: 16px;}
+    .account-sec{ padding: 40px 0;}
+    .card-outr{ width: 100%;}
+    .main-accnt{ padding: 0;}
+    .breadcrumb{ margin-bottom: 20px;}
+    .credit-info{ margin-top: 20px;}
+    .invite-bnnr{ width: 60% !important;}
+    .share-btn a{ font-size: 12px; padding: 0 5px;}
+    .tech-head{ padding-bottom: 0;}
+    .story-sec{ padding: 30px 0;}
+    .jobs-img img{ width: 100%;}
+    .jobs-txt h3{ font-size: 22px; width: 100%;}
+    .jobs-txt{ padding: 0 0 0 30px; margin-bottom: 20px;}
+    .jobs-img-title{ height: 50px; line-height: 50px;}
+    .food-box li, .jobs-txt li{ margin-bottom: 10px;}
+    .jobs-txt ul{ margin-top: 15px;}
+    .positon-sec{ padding: 50px 0;}
+    .pos-innr h1{ margin-bottom: 10px;}
+    .position-box{ margin-top: 20px;}
+    .pos-info .pos-title{ font-size:12px;}
+    .position-box{ padding: 10px; }
+    .mbrshp-sec{ padding: 40px 0;}
+    .mbrshp-content h3, .payment-inner h3{ margin-top: 0; font-size: 22px;}
+    .mbrshp-opt ul{ margin-top: 10px;}
+    .food-box li:last-child, .jobs-txt li:last-child{ margin-bottom: 0;}
+    .payment-sec{ padding: 40px 0;}
+    .payment-inner{ padding: 20px 30px;}
+    .prod-detail p{ font-size: 12px;}
+    .prod-thumb{ margin-right: 10px;}
+    .qty-bx span{ font-size: 16px; display: block;}
+    .qty-num{ margin: 0;}
+    .qty-bx a{ font-size: 14px; margin-left: 10px; display: none;}
+    .qty-bx{ width: 26%; padding: 0;}
+    .cart-prodt{ margin: 20px 0;}
+    .addres-sec{ padding-top: 0;}
+    .field-sm{ width: 25% !important;}
+    .field-name { width: 31% !important;}
+    .addrs-form .aply-btn{ margin-top: 20px;}
+    .card-detail{ width: 54% !important;}
+    .field-xs{ width:21% !important;}
+    .crd-exp{ width: 70px;}
+    .trial-field{ width: 100% !important;}
+    .paymnt-sidebar h5{ margin-top: 0;}
+    .trial-field{ margin: 10px 0;}
+    .profile-detail h3{ margin-bottom: 10px;}
+    .addr-field{ height: 38px; line-height:38px; padding: 0 10px;}
+    .paymnt-btn{ margin-bottom: 10px;}
+    .apply-bttn{ padding: 0 20px;}
+    .prod-detail{ width: 50%;}
+    .prod-detail h4{ font-size: 14px;}
+    .press-txt{ margin: 20px 0 0;}
+    .recipe-list ul{ width: 48%;}
+    .recipe-list li:last-child{ margin-bottom: 0;}
+    .invite-sec{ padding: 40px;}
+    .invite-sec h3{ margin-top: 0;}
+    .user-review{ width: 100%;}
+    .main-bnnr .main-logo{ margin-bottom: 10px;}
+    .menu-btn1{ width: 39%; font-size: 14px;}
+    .menu-btn2{ height: 38px; line-height: 38px;}
+    .main-bnnr .login-txt{ font-size: 14px;}
+    .main-bnnr{ padding: 30px 40px ;}
+    .home-main{ height: 100%; min-height: 700px; position: absolute; width: 100%;}
+    
+}
+
+@media screen and (max-width:992px){
+    .banner-sec, .feed-more-sec{ padding: 100px 0;/* background-size: 210%;*/ background-attachment: inherit; }
+    .logo{ top: 10px;}
+    .top-sec{ padding-bottom: 16px;}
+    .banner-contnt h1{ margin-top: 10px; font-size: 46px; line-height: 46px;}
+    .content-sec h1, .faq-sec h1, .about-sec-1 h1{ font-size: 20px;}
+    .membrshp-innr { padding: 30px 23px 30px 0;}
+    .dinr-kit{ padding-right: 0;}
+    .post-info{ margin-top: 15px;}
+    .content-sec h5{ font-size: 16px;}
+    .post-info h5{ margin-top: 20px;}
+    .sec-2{ padding: 0 20px;}
+    .sec-3{ padding: 30px 0;}
+    .area-input, .submit-btn{ height: 48px; line-height: 48px; font-size: 16px; padding: 0 15px;}
+    .check-area span{ top: 12px; right: 12px; font-size: 18px;}
+    .faq-sec { padding: 40px 0 30px;}
+    .faq-content h5{ font-size: 13px;}
+    .faq-content{ margin-top: 30px;}
+    .faq-content li{ padding-left: 0; padding-right: 10px;}
+    .faq-content li{ margin-bottom: 15px;}
+    .ft-info a{ font-size: 13px;}
+    .social-icn a{ font-size: 16px !important; margin: 0 4px; }
+    .ft-links li a{ line-height: 26px;}
+    .food-info br{ display: block;}
+    .story-outr{ width: 100%; text-align: center; margin: 30px auto 40px;}
+    .story-box{ float: none; display: inline-block; width: 220px;}
+    .story-sec{ padding: 30px 0;}
+    .story-info{ padding: 0;}
+    .story-info h3{ margin-top: 0;}
+    .team-eat{ padding-bottom: 40px;}
+    .team-mmbr{ padding: 40px 0 20px;}
+    .team-gallery, .mmbr-info{ margin-top: 30px;}
+    .banner-contnt{ padding:  25px 30px 30px;}
+    .service-banner{ padding: 50px 0;}
+    .states-sec { padding: 30px 0 10px;}
+    .state-bx-outer{ width: 100%;}
+    .state-bx h3{ font-size: 16px;}
+    .video-txt{ padding-top: 40px;}
+    .access-bx h4{ font-size: 14px;}
+    .join-form h1{ font-size: 24px;}
+    .join-form br{ display: none;}
+    .apply-bttn{ padding: 0 20px;}
+    .join-form{ width: 60%;}
+    .video-frame{ width: 400px;}
+    .video-frame img{ width: 100%; margin: 0;}
+    .video-box { height: 210px; padding: 0 19px; top: 13px;}
+    .video-txt{ padding-top: 20px;}
+    .banner-lrg{ width: 80%;}
+    .min-content{ padding: 40px 0 50px; background-position: 100% 110px;}
+    .min-bx{ margin-top: 30px;}
+    .min-content h1{ font-size: 40px; }
+    .min-sec{ background-size: 45%;}
+    .meal-outr{ margin-bottom: 20px;}
+    .min-content h4{ margin: 2px 0;}
+    .banner-md h1{ font-size: 28px; line-height: 28px; margin-top: 0;}
+    .about-sec-1 p br{ display: none;}
+    .food-head h1{ margin-bottom: 10px}
+    .food-box-rt h3{ font-size: 20px;}
+    .food-box ul{ margin-top: 10px;}
+    .food-box-rt li{ font-size: 12px; margin-bottom: 10px;}
+    .food-box-rt{ padding: 20px 25px 0;}
+    .credit-box{ padding: 0;}
+    .banner-md{ width: 60%;}
+    .signup-sec h4{ margin-top: 20px;}
+    .ft-la{ font-size: 11px;}
+    .post-content{ padding: 12px;}
+    .post-content .post-title{ font-size: 16px; line-height: 20px;}
+    .post-content p{ font-size: 12px;}
+    .date{ width: 50px; height: 45px; padding: 5px; font-size: 14px; line-height: 18px; }
+    .date strong{ font-size: 20px;}
+    .banner-innr h1{ font-size: 30px;}
+    .top-nav2 .logo{ position: static; width: 100%; text-align: center; padding-top: 8px;}
+    .top-nav2 .top-sec{ padding: 0px 0 10px;}
+    .menu-select{ width: 28.2%; height: 50px; line-height: 50px; }
+    .cart-main{ height: 50px; line-height: 50px;}
+    .date-field{ width: 95%;}
+    .menu-select a{ font-size: 14px;}
+    .zip-code{ padding: 15px;}
+    .zip-change{ height: 34px; line-height: 33px;}
+    .zip-change .zip-bttn{ font-size: 12px; padding: 0 10px;}
+    .zip-change .zip-field{ font-size: 12px; padding: 0 5px; height: 34px; line-height: 34px;}
+    .filter-item li, .filter-item li a{ line-height: 30px;}
+    .menu-cont{ width: 70%; bottom: 30px; left: 30px;}
+    .menu-cont h1{ font-size: 30px;}
+    .main-dish{ padding: 30px 0 10px;}
+    .dish-info p{ font-size: 14px;}
+    .dish-info h4{ font-size: 20px;}
+    .nav.navbar-nav { float: none; margin: auto; width: 75%;}
+    .navigation{ margin-bottom: 0;}
+    .menu-descp{ padding: 30px 0;}
+    .dish-detail h2{ font-size: 22px; margin-top: 0;}
+    .apply-bttn, .cart-btn{ height: 36px; line-height: 36px; font-size: 16px;}
+    .tab-head li > a { padding: 5px 12px; font-size: 13px;}
+    .tab-head { padding: 6px 6px 0;}
+    .dish-info, .load-btn{ margin-top: 10px;}
+    .reviews{ margin: 10px 0 20px;}
+    .gift-bx img{ width: 80px;}
+    .gift-bx span{ min-height: 85px;}
+    .gift-bx h3{ margin: 10px 0; font-size: 20px;}
+    .gift-bx{ padding: 0;}
+    .account-sec{ padding: 30px 0;}
+    .profile-detail h3{ font-size: 20px; margin-bottom: 15px;}
+    .card-outr{ padding: 10px;}
+    .invite-bnnr { width: 75% !important;}
+    .invite-sec h4, .invite-field{ font-size: 14px;}
+    .invite-bx h3{ font-size: 22px; margin-top: 0;}
+    .top-nav .nav.navbar-nav{ width: 38%;}
+    .top-links { padding-top: 10px;}
+    .navbar{ min-height: inherit;}
+    .invite-table td, .t-head th{ font-size: 12px;}
+    .t-head th:first-child, .invite-table td:first-child{ padding: 0 10px;}
+    .invite-info p{ height: 36px; line-height: 36px; font-size: 14px;}
+    .t-head th{ padding: 10px 0; }
+    .invite-table td{ padding: 5px 0;}
+    .get-point{ margin-top: 20px;}
+    .profile-detail{ padding: 0;}
+    .credit-info p{ font-size: 10px;}
+    .jobs-txt h3{ font-size: 18px;}
+    .jobs-img-title h4{ font-size: 13px;}
+    .positon-sec{ padding: 30px 0;}
+    .position-box{ margin-top: 10px;}
+    .pos-info .pos-title{ font-size: 14px;}
+    .footer-sec{ padding: 30px 0 20px;}
+    .share-btn a, .fb-login a{ height: 36px; line-height: 36px; font-size: 12px;}
+    .login-frm p{ margin: 20px 0;}
+    .mbrshp-content h3{ font-size: 20px;}
+    .mbrshp-content p{ margin-bottom: 0;}
+    .mbrshp-opt{ width: 100%;}
+    .mbrshp-opt li{ background-size: 8px !important; margin-bottom: 5px;}
+    .food-box li, .jobs-txt li{ background-size: 8px;}
+    .payment-inner{ padding: 20px;}
+    .payment-inner h3{ font-size: 20px;}
+    .selct-time{ margin-top: 10px;}
+    .qty-bx{ width: auto; margin-top: 10px;}
+    .qty-bx span{ display: inline-block; margin-right: 10px;}
+    .cart-prodt{ margin-bottom: 10px;}
+    .addr-field{ height: 36px; line-height: 36px; }
+    .field-name { width: 30.9% !important;}
+    .card-detail { width: 100% !important;}
+    .qty-num{ height: 36px; line-height: 36px;}
+    .paymnt-sidebar h5{ font-size: 14px;}
+    .order-btn{ margin: 0;}
+    .ordr-sumry span{ width: auto;}
+    .member-trial{ padding: 10px 5px;}
+    .member-trial p{ font-size: 13px;}
+    .add-pay li{ display: inline-block; width: auto;}
+    .profile-sidebar{ text-align: left;}
+    .order-histry{ margin: 10px 0;}
+    .privacy-contnt{ padding-left: 25px; width: 70%;}
+    .sidebar-nav li a{ padding: 0 0 15px;}
+    .sidebar-nav{ width: 28%;}
+    .term-sec{ padding-bottom: 0;}
+    .gift-img { padding-top: 15px;}
+    .press-contnt h1{ font-size: 20px; margin-bottom: 0;}
+    .press-txt{ margin-top: 15px;}
+    .press-contnt{ padding: 0;}
+    .signup-bx{ padding: 0;}
+    .signup-btn a.fb-share{ padding: 0 10px; font-size: 15px;}
+    .login-txt{ margin-top: 10px;}
+    .checkbox label{ margin-bottom: 10px;}
+    .invite-sec{ padding: 20px;}
+    .invite-sec h3{ font-size: 22px;}
+    .invite-field{ height: 38px; line-height: 38px;}
+    .accnt-set li{ width: 100%;}
+    .accnt-set li a{ line-height: 24px;}
+    .accnt-set ul{ margin-bottom: 20px;}
+    .accnt-set ul:last-child{ margin-bottom: 0;}
+    .review-txt-bx{ width: 100%;}
+    .main-bnnr{ width: 70%;}
+    
+
+}
+
+@media screen and (max-width:767px){
+    .logo{ position: static; width: 100%; text-align: center; padding-top: 8px;}
+    .top-sec{ padding: 10px 0 12px;}
+    .top-links{ padding-top: 0px;}
+    .banner-sec, .feed-more-sec{ padding: 60px 0;}
+    .banner-contnt{ width: 350px; padding: 25px;}
+    .food-info{ margin-bottom: 20px;}
+    .food-info br{ display: none;}
+    .food-info span{ margin-bottom: 10px;}
+    .mmbr-outr{ width: 100%; border-right: none;}
+    .membrshp-innr{ padding-right: 0;}
+    .post-thumb img{ width: 100%;}
+    .dinr-kit{ width: 100%; padding-top: 0;}
+    .sec-3{ padding: 20px 0;}
+    .availblty-sec{ width: 80%;}
+    .area-input, .submit-btn{ height: 40px; line-height: 40px; font-size: 14px;}
+    .check-area span, .banner-contnt p{ font-size: 16px;}
+    .banner-contnt h1{ font-size: 36px; line-height: 40px;}
+    .faq-sec{ padding-top: 40px;}
+    .faq-content{ margin-top: 20px;}
+    .faq-content li{ width: 100%; padding-right: 0; min-height: inherit;}
+    .ft-links{ min-height: 160px;}
+    .ft-links li a{ line-height: 24px;}
+    .footer-sec{ padding-bottom: 20px;}
+    .story-box{ margin-right: 0; width: 32.5%; padding: 15px 5px;}
+    .story-box h4{ font-size: 14px;}
+    .story-txt{ margin-top: 20px;}
+    .gallery-box{ width: 45%; margin: 0 2.5%;}
+    .team-gallery{ padding: 0 10px;}
+    .gallery-img:hover{ transform: none;}
+    .gallery-img, .gallery-box .gallery-img:last-child{ margin-bottom: 12%;}
+    .team-mmbr br{ display: none;}
+    .fademe{ opacity: 1; bottom: 0;}
+    .service-banner{ background-size: cover;}
+    .state-bx{ width: 50%; padding: 40px 0; text-align: center;}
+    .state-bx:nth-child(2n+2){ border-right: none}
+    .zip-bttn{ font-size: 15px; padding: 0 20px;}
+    .zip-field{ font-size: 16px; width: 60%;}
+    .video-frame{ width: 330px; height: 100%;}
+    .video-frame img{ width: 100%; margin: 0;}
+    .video-box { padding: 0 15px; height: 170px;}
+    .video-block{ margin-top: 0;}
+    .video-txt{ padding-top: 20px;}
+    .access-bx{ margin-bottom: 30px; padding: 0 20px;}
+    .access-bx span{ margin-bottom: 5px;}
+    .join-form{ width: 90%;}
+    .access-block h1 br{ display: none;}
+    .banner-lrg { width: 80% !important;}
+    .min-content{ background: none;}
+    .min-bx {  float: left;  margin-top: 30px;  padding: 0 10px;  width: 33%;}
+    .min-sec { background-size: 55% auto; background-position: -40px 0;}
+    .min-overly{ display: block;}
+    .upcoming-sec { padding: 40px 0;}
+    .meal-block{ margin-top: 30px;}
+    .meal-box:hover img{ transform: none}
+    .banner-lrg p br{ display: none;}
+    .banner-contnt h1{ font-size: 25px; line-height: 25px;}
+    .apply-form .aply-input{ margin-bottom: 8px;}
+    .food-box-outr{ padding: 20px 0 30px;}
+    .food-box{ width: 100%;}
+    .food-bx-innr{ max-height: inherit;}
+    .food-box-rt { padding: 20px 25px;}
+    .credit-box{padding: 0 30px; margin-bottom: 30px;}
+    .office-food{ padding-bottom: 30px;}
+    .banner-md{ width: 90%;}
+    .signup-sec h4{ font-size: 14px; line-height: 20px;}
+    .signup-sec{ padding: 40px 0; }
+    .blank-banner{ padding: 20px 0;}
+    .banner-innr h1{ font-size: 28px; margin-bottom: 5px;}
+    .banner-innr br{ display: none;}
+    .press-sec{ padding: 30px 0 20px;}
+    .post-content .post-title{ font-size: 18px;}
+    #pinBoot{ margin-bottom: 180px;}
+    .cart-main{ width: 9%; height: 40px; line-height: 40px;}
+    .menu-select{ height: 40px; line-height: 40px;}
+    .date-field{ line-height: 34px; font-size: 13px; padding: 0 0 0 15px; width: 92%;}
+    .menu-select a{ padding: 0 10px; font-size: 13px;}
+    .menu-filter{ padding: 15px 0;}
+    .menu-cont h1{ font-size: 22px; font-weight: 600;}
+    .menu-cont{ left: 0; bottom: 0;  padding: 15px; width: 100%;}
+    .dish-box:hover .dish-thumb{ transform: scale(1);}
+    .dish-box{ width: 70%; margin: 0 auto 30px;}
+    .top-nav2 .top-sec{ padding: 10px ; position: absolute;}
+    .date-bx{ padding: 0 10px;}
+    .top-links{ width: 100%;}
+    .date-bx span{ left: 10px;}
+    .filter-d-dwn{ min-width: 230px;}
+    .navigation{ position: absolute; top: 0; width: 100%; padding: 0 15px;}
+    .top-nav2 .logo img{ width: 180px;}
+    .top-nav2 { padding: 0 0 10px; position: relative;}
+    .navigation .navbar-toggle{ border: none; float: left;}
+    .navigation .navbar-toggle:hover{ background: none;}
+    .top-sec{ background: #fff; z-index: 9999;}
+    .navbar-header { padding-bottom: 3px;}
+    .cart-main{ display: none;}
+    .phone-cart{ display: block; position: absolute; right: 15px; top: 15px;}
+    .phone-cart span{ font-size: 30px;}
+    .top-nav2 .top-links a{ width: 100%; display: block; text-align: left; font-size: 16px; line-height: 30px;}
+    .nav.navbar-nav{ margin: 0;}
+    .menu-cont p br{ display: none;}
+    .menu-filter li:nth-child(3){ margin-right: 0;}
+    .menu-select{ width: 32%;}
+    .back-menu{ margin-top: 0; line-height: 20px;}
+    .dish-img{ margin-bottom: 10px;}
+    .dish-outer{ text-align: center;}
+    .dish-outer h3{ text-align: center; font-size: 22px;}
+    .gift-bx{ margin-bottom: 30px;}
+    .gift-bx span{ min-height: inherit;}
+    .gift-bx p{ font-size: 13px;}
+    .profile-sidebar{ width: 70%; margin: 0 0 30px;}
+    .profile-sidebar h4{ margin: 10px 0 5px; }
+    .top-sec{ margin: 0 -30px !important;}
+    .invite-bnnr { width: 100% !important;}
+    .share-btn a, .fb-login a{ height: 36px; line-height: 36px;}
+    .share-btn span{ margin-right: 1px;}
+    .share-btn a{ padding: 0 2px; font-size: 11px;}
+    .invite-table{ overflow-x: auto;}
+    .invite-table table{ width: 750px;}
+    .invite-table td, .t-head th{ font-size: 13px;}
+    .credit-info p{ font-size: 14px;}
+    .faq-content h5{ line-height: 18px;}
+    .tech-head p{ margin-bottom: 0;}
+    .jobs-box{ width: 100%; margin-bottom: 20px;}
+    .jobs-txt{ padding: 0;}
+    .forgot-pass{ width: 80%;}
+    .forgot-frm{ margin-top: 20px;}
+    .fb-login a{ margin-bottom: 0;}
+    .login-main h3{ font-size: 20px;}
+    .addr-field{ height: 36px; line-height: 36px;}
+    .login-frm h5{ font-size: 13px; margin-top: 20px;}
+    .login-frm a{ font-size: 13px;}
+    .mbrshp-sec{ padding: 30px 0;}
+    .mbrshp-content h3{ font-size: 18px;}
+    .mbrshp-opt li{ background-size: 8px !important;}
+    .crd-exp{ width: 80px;}
+    .paymnt-sidebar h5{ font-size: 16px;}
+    .member-trial p{ font-size: 14px;}
+    .apply-bttn, .cart-btn{ font-size: 14px;}
+    .privacy-contnt h3{ font-size: 20px;}
+    .sidebar-nav{ width: 100%;}
+    .privacy-contnt{ width: 100%; border-top: 1px solid #cecece; border-left: none; padding: 20px 0 0; }
+    .sidebar-nav li{ width: auto; margin-right: 30px;}
+    .press-txt{ margin-bottom: 0;}
+    .recipe-list ul{ width: 100%;}
+    .food-box li, .jobs-txt li{ background-size: 8px;}
+    .acnt-head h2{ font-size: 26px;}
+    .main-accnt{ margin-top: 20px;}
+    .invite-code, .accnt-set{ width: 100%;}
+    .accnt-set li { width: 50%;}
+    .dload-app{ float: left !important;}
+    .main-bnnr p{ font-size: 14px;}
+    .main-bnnr .login-txt{ font-size: 13px;}
+    .menu-btn2{ height: 36px; line-height: 36px;}
+    .main-bnnr .main-logo{ width: 250px; display: inline-block; text-align: center;}
+    .main-bnnr .main-logo img{ width: 100%; }
+    
+    .no-mrgn{ margin: 0;}
+    .navbar-toggle{ margin-left: -13px;}
+    .top-links{ padding: 0 !important;}
+    .story-img img{ width: 100%;}
+    .food-box li, .jobs-txt li{ background-size: 8px;}
+    
+    
+}
+@media screen and (max-width:600px){
+    .top-links{ width: 100%; text-align: center; padding: 2px 0;}
+    .hiden-nav{ display: block;}
+    .pos-info{ text-align: left;}
+    .pos-loc{ width: 100%; }
+    .pos-info .pos-title{ margin-bottom: 15px; display: inline-block; width: 100%;}
+}
+
+@media screen and (max-width:480px){
+    .banner-sec, .feed-more-sec{ padding: 30px 0;}
+    .sec-2{ padding: 0;}
+    .top-links a{ padding: 0px 9px;}
+    .banner-sec, .feed-more-sec{ background-size: 350%;}
+    .banner-contnt{ width: 100%; padding: 20px 15px 22px;}
+    .sec-1{ padding: 30px 0;}
+    .post-info h5{ margin-top: 15px;}
+    .menu-btn a{ margin-top: 20px;}
+    .availblty-sec{ width: 100%;}
+    .availblty-sec h1{ font-size: 16px; margin-top: 10px;}
+    .submit-btn{ margin-bottom: 3px;}
+    .banner-contnt h1{ font-size: 30px; line-height: 34px; margin-bottom: 10px;}
+    .faq-sec{ padding-top: 30px;}
+    .ft-links li a{ font-size: 13px;}
+    .ft-info a{ font-size: 12px;}
+    .ft-social img{ margin-bottom: 5px;}
+    .social-icn{ margin-top: 0;}
+    .story-box{ width: 100%; margin-bottom: 15px; padding: 20px 5px;}
+    .story-sec{ padding-top: 0;}
+    .story-box span{ margin-bottom: 15px;}
+    .story-outr{ margin-bottom: 0;}
+    .story-info h3{ font-size: 20px;}
+    .story-txt{ text-align: center;}
+    .story-txt P{ margin: 0;}
+    .team-gallery, .mmbr-info{ margin-top: 20px;}
+    .gallery-box { margin: 0; width: 100%;}
+    .gallery-img, .gallery-box .gallery-img:last-child{ margin-bottom: 15px;}
+    .team-eat{ padding-bottom: 20px;}
+    .team-mmbr{ padding: 30px 0 10px;}
+    .team-gallery{ padding: 0 15px;}
+    .check-area span, .banner-contnt p{ font-size: 13px;}
+    .service-banner{ background-size: cover;}
+    .service-sec{ padding: 30px 0;}
+    .zip-box{ width: 290px;}
+    .zip-bttn{ font-size: 13px; padding: 0 10px;}
+    .zip-field{ font-size: 14px; padding-left: 10px; height: 40px; line-height: 40px; width: 60%}
+    .state-bx{ padding: 35px 0 0;}
+    .smal-bx, .full-bx{ width: 100%; margin: 0;}
+    .apply-form .aply-input{ height: 36px;}
+    .video-frame{ width: 280px;}
+    .video-box{ height: 150px; top: 10px; padding: 0 13px;}
+    .video-block{ margin-top: 10px;}
+    .access-bx{ padding: 0 15px;}
+    .no-mrgn{ margin: 0;}
+    .join-form h1{ font-size: 20px;}
+    .banner-lrg{ width: 100% !important;}
+    .min-sec{ background: none;}
+    .min-bx{ width: 100%;}
+    .meal-box{ padding: 5px;}
+    .min-content, .upcoming-sec{ padding: 30px 0 40px;}
+    .banner-md h1{ font-size: 22px; line-height: 22px;}
+    .food-box-rt h3{ font-size: 18px;}
+    .credit-box{ padding: 0 10px;}
+    .signup-sec{ padding: 40px 0; }
+    .credit-box span{ margin-bottom: 0;}
+    .ft-la{ text-align: center; font-size: 12px;}
+    #pinBoot{ margin-left: 0;}
+    .blog-post{ width: 100% !important;}
+    .post-content .post-title{ font-size: 16px;}
+    .banner-innr h1{ font-size: 24px;}
+    .menu-filter li{ width: 100%; margin-right: 0; margin-bottom: 8px;}
+    .zip-box{ width: 250px;}
+    .zip-field{ width: 62%;}
+    .zip-change .zip-bttn{ padding: 0 15px;}
+    .zip-change .zip-field{ padding: 0 10px;}
+    .menu-cont h1{ font-size: 14px;}
+    .menu-cont p{ font-size: 12px;}
+    .carousel-indicators{ width: 100%; text-align: center; bottom: -15px; margin-bottom: 0;}
+    .menu-cont{ position: static; padding: 10px 0;}
+    .dish-box{ width: 100%;}
+    .dish-detail h2{ font-size: 20px;}
+    .nav-tabs > li{ width: 50%; text-align: center;}
+    .tab-head li > a{ border-radius: 4px 4px 0 0;}
+    .dish-outer{ margin-top: 0;}
+    .profile-sidebar{ width: 100%;}
+    .profile-detail{ padding: 0; text-align: center;}
+    .card-bx{ margin: 0 2px 5px;}
+    .invite-field{ padding: 0 10px; font-size: 12px;}
+    .invite-code a{ right: 10px; top: 11px;}
+    .share-btn a{ width: 100%; display: block; margin: 0 0 5px;}
+    .get-point br{ display: none;}
+    .md-box{ background-size: 3% !important;}
+    .date-field{ width: 88%;}
+    .jobs-img-title h4{ margin: 0; line-height: 25px;}
+    .food-box li, .jobs-txt li{ background-size: 8px;}
+    .footer-contnt .col-sm-3.col-xs-6{ width: 100%;}
+    .ft-social > a{ display: inline-block;}
+    .ft-social{ margin-top: 0; }
+    .social-icn{ margin-top: 10px; display: block;}
+    .footer-sec{ padding-bottom: 0;}
+    .ft-links{ min-height: inherit; margin-bottom: 20px;}
+    .footer-sec h5{ margin-bottom: 10PX;}
+    .mmbr-info .col-sm-3.col-xs-6{ width: 100%;}
+    .forgot-pass{ width: 100%;}
+    .login-main h3{ font-size: 18px;}
+    .mbrshp-opt li{ background-size: 8px !important;}
+    .mbrshp-opt ul{ margin-top: 0;}
+    .menu-descp{ background: #fff;}
+    .payment-inner{ border: none; padding: 0;}
+    .selct-time li a{ font-size: 12px;}
+    .selct-time li{ height: 50px; line-height: 50px;}
+    .prod-detail h4{ font-size: 14px;}
+    .prod-detail{ width: 100%;}
+    .payment-inner h3{ text-align: center;}
+    .prod-thumb{ width: 50px; margin-right: 5px; display: block; text-align: center;}
+    .prod-thumb img{ width: 100%; }
+    .qty-bx{ text-align: center; margin-top: 0;}
+    .field-md{ width: 100% !important;}
+    .field-name{ width: 100% !important; margin: 10px 0 0 !important; }
+    .field-sm2{ width: 48% !important;}
+    .crd-exp{ width: 68px;}
+    .addrs-form li label, .checkbox label{ font-size: 13px;}
+    .paymnt-sidebar{ border-top: #e1e1e1 1px solid; padding: 20px 0 0;}
+    .hide-btn{ display: none;}
+    .selct-bx{ background-size: 2.5%;}
+    .profile-sidebar{ text-align: center;}
+    .profile-detail h3{ margin-bottom: 5px;}
+    .add-pay{ text-align: left;}
+    .save-pay .apply-bttn{ width: 250px; margin: 0 0 10px; padding: 0;}
+    .add-paypal .add-crt{ margin-top: 5px;}
+    .profile-detail h3, .signup-main h3{ font-size: 18px;}
+    .prod-detail h4{ text-align: left;}
+    .breadcrumb > li{ font-size: 13px;}
+    .sidebar-nav li{ width: 100%;}
+    .sidebar-nav li a{ padding-bottom: 10px;}
+    .press-contnt h4{ line-height: 20px; font-size: 14px; margin-bottom: 5px;}
+    .gift-bannr h2{ font-size: 34px; margin-bottom: 5px;}
+    .redeem-frm{ margin-top: 10px;}
+    .meal-block .col-sm-3.col-xs-6{ width: 100%;}
+    .signup-main{ width: 100%;}
+    .apply-form{ margin-top: 10px;}
+    .signup-main h3{ margin-top: 0;}
+    .signup-btn{ text-align: center; margin: 10px 0 0;}
+    .signup-btn .apply-bttn{ width: 250px; margin-bottom: 10px; margin-left: 0;}
+    .signup-btn a.fb-share{ width: 250px; margin: 0; text-align: center;}
+    .signup-info h2{ font-size: 18px; }
+    .signup-info h2 br{ display: none}
+    .food-box li, .jobs-txt li{ margin-bottom: 5px;}
+    .login-txt{ margin-top: 20px;}
+    .field-lg { width: 100% !important;}
+    .edit-profile{ width: 100%;}
+    .checkbox, .email-pref{ text-align: left;}
+    .email-pref{ margin-top: 20px;}
+    .signup-btn a{ margin-left: 0;}
+    .invite-sec{ padding: 0; box-shadow: none;}
+    .accnt-set li{ width: 100%;}
+    .review{ text-align: left;} 
+    .user-review{ margin-top: 20px;}
+    .review-txt-bx{ margin-top: 10px;}
+    .invite-info{ width: 100%;}
+    .invite-info p{ width: 50%; padding: 0;}
+    .main-bnnr .main-logo{ width: 200px;}
+    .zip-full{ width: 100% !important; margin-top: 10px !important;}
+    .see-menu .menu-btn1{ width: 100%;}
+    .see-menu .menu-btn2{ width: 100%; margin: 10px 0 0 !important; font-size: 13px;}
+    .home-main{ padding: 40px 0; min-height: 650px;}
+    .main-bnnr .login-txt{ font-size: 15px;}
+    .black-footer a{ font-size: 12px;}
+}
+
+

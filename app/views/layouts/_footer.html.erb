@@ -1,0 +1,98 @@
+<% if controller.controller_name != "welcome"  && controller.action_name != "index" %>
+<footer class="footer-sec">
+    <div class="container">
+        <div class="footer-contnt">
+            <div class="row">
+                <div class="col-sm-3 col-xs-6">
+                    <div class="ft-links">
+                        <h5>About</h5>
+                        <ul>
+                            <li><a href="#">Services area</a></li>
+                            <li><a href="#">About</a></li>
+                            <li><a href="#">How it works</a></li>
+                            <li><a href="#">Offers</a></li>
+                            <li><a href="#">Contact</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-sm-3 col-xs-6">
+                    <div class="ft-links">
+                        <h5>Account</h5>
+                        <ul>
+                            <li><a href="#">Signup</a></li>
+                            <li><a href="#">Login</a></li>
+                            <li><a href="#">Shiping Order</a></li>
+                            <li><a href="#">Privacy Policy</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-sm-3 col-xs-6">
+                    <div class="ft-info">
+                        <h5>Contact</h5>
+                        <p>Phone <span>+1 123 456 7890</span></p>
+                        <p>Email <a href="mailto:info@muncheebox.com">info@muncheebox.com</a></p>
+                    </div>
+                </div>
+                <div class="col-sm-3 col-xs-6">
+                    <div class="ft-info">
+                        <div class="ft-social">
+                            <a href="#"><%= image_tag 'itune.png', width: '92' %></a>
+                            <a href="#"><%= image_tag 'play-store.png', width: '90' %></a>
+                            <div class="social-icn">Find on
+                                <div class="icns">
+                                    <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                                    <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                                    <a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a>
+                                    <a href="#"><i class="fa fa-yelp" aria-hidden="true"></i></a>
+                                </div>    
+                            </div>
+                            <p class="ft-la">Made in Los Angeles <%= image_tag 'palm-tree.png', width: '29' %></p>
+                        </div>    
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>    
+    
+    
+
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script type="text/javascript" src="js/bootstrap.min.js"></script>
+<script>
+	$(document).ready(function() {
+        $('.arrow-wrap').bind('click', function(event) {
+
+            var $anchor = $(this);
+            $('html, body').stop().animate({
+                scrollTop: $($anchor.attr('href')).offset().top
+            }, 1000, 'swing');
+            event.preventDefault();
+        });
+
+    });
+</script> 
+
+<script>
+    $(document).ready(function() {
+        $(window).scroll( function(){
+        $('.fademe').each( function(i){
+            
+            var bottom_of_object = $(this).offset().top + $(this).outerHeight();
+            var bottom_of_window = $(window).scrollTop() + $(window).height();
+            
+            /* If the object is completely visible in the window, fade it it */
+            if( bottom_of_window > bottom_of_object ){
+                
+                $(this).animate({'opacity':'1', 'bottom':'0'},800);
+            }
+            
+        }); 
+    
+    });
+    
+});
+    
+</script> 
+<% end %>
