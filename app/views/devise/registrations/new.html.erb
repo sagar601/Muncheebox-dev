@@ -1,0 +1,67 @@
+<section class="account-sec">
+    <div class="container">
+            <div class="signup-main clearfix">
+                <p>Sign up here</p>
+            <h3>CREATE YOUR ACCOUNT</h3>
+                <div class="row">
+                    <div class="col-sm-6">
+                            <div class="signup-bx">
+                                <div class="apply-form">
+                                <%= form_for(resource, as: resource_name, url: registration_path(resource_name)) do |f| %>
+                                <%= devise_error_messages! %>
+                                    <ul class="clearfix">
+
+                                        
+
+                                        <li class="full-bx"><%= f.email_field :email, autofocus: true, class: "aply-input", placeholder: "Email" %></li>
+                                        <li class="full-bx">
+                                          
+                                          <%= f.password_field :password, autocomplete: "off", class: "aply-input", placeholder: "Password" %>
+                                          
+                                        </li>
+                                        <li class="full-bx">
+                                          <%= f.password_field :password_confirmation, autocomplete: "off", class: "aply-input", placeholder: "Confirm Password" %>
+                                          
+                                        </li>
+                                        <li class="smal-bx">
+                                            <select class="aply-input selct-bx selct-bx2">
+                                                <option>90036</option>
+                                                <option>90037</option>
+                                                <option>90038</option>
+                                                <option>90039</option>
+                                            </select>
+                                        </li>
+                                        <li class="smal-bx"><a href="#" class="hv-code pull-right">Have invite code ?</a></li>
+                                        <li class="aply-btn signup-btn">
+                                            
+                                            <%= f.submit "Sign up" , class: 'apply-bttn' %>
+                                            <a class="cart-btn fb-share" href="#"><span><i aria-hidden="true" class="fa fa-facebook"></i></span>Sigup with facebook</a>
+                                        </li>
+                                    </ul>
+                                <% end %>
+                            </div>
+                                <p class="login-txt">By signing up, you agree to the Privacy <br><a href="#">Policy Terms of Service</a></p>
+                        </div>        
+                    </div>
+                
+                <div class="col-sm-6">
+                    <div class="signup-bx">
+                        <div class="signup-info clearfix">
+                            <h2>Get Fresh, Chef-Made <br>Meals Delivered</h2>
+                            <div class="food-box signup-list">
+                                <ul>
+                                    <li>Ever-changing daily menus</li>
+                                    <li>Local chefs use nourishing, seasonal ingredients</li>
+                                    <li>Dishes are chill. for maximum freshness </li>
+                                    <li>Heat and dinner's ready when you are</li>
+                                    <li>On-demand or scheduled delivery </li>
+                                </ul>
+                            </div>
+                            <p class="login-txt">Already have an account? <a href="#">Login here</a></p>
+                        </div>    
+                    </div>    
+                </div>    
+            </div>
+        </div>    
+    </div>
+</section>
