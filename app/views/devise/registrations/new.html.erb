@@ -11,7 +11,8 @@
                                 <%= devise_error_messages! %>
                                     <ul class="clearfix">
 
-                                        
+                                        <li class="smal-bx"><%= f.text_field :first_name, autofocus: true, class: "aply-input", placeholder: "First Name" %></li>
+                                        <li class="smal-bx"><%= f.text_field :last_name, autofocus: true, class: "aply-input", placeholder: "Last Name" %></li>
 
                                         <li class="full-bx"><%= f.email_field :email, autofocus: true, class: "aply-input", placeholder: "Email" %></li>
                                         <li class="full-bx">
@@ -37,6 +38,7 @@
                                             <%= f.submit "Sign up" , class: 'apply-bttn' %>
                                             <a class="cart-btn fb-share" href="#"><span><i aria-hidden="true" class="fa fa-facebook"></i></span>Sigup with facebook</a>
                                         </li>
+
                                     </ul>
                                 <% end %>
                             </div>

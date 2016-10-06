@@ -1,10 +1,10 @@
-<% if controller.controller_name != "welcome" %>
+
 <header>
 
     <div class="header-top">
             <div class="top-nav2 top-nav">
                 <div class="logo">
-                    <a href="index.html"><%=image_tag "logo.png" , width: "247"  %></a>
+                    <a href="index.html"><%= image_tag "logo.png" , width: "247"  %></a>
                 </div>
                 
                 <nav class="navbar navbar-default navigation">
@@ -24,8 +24,8 @@
                                 <a href="#">Gift</a>
                             </div>
                             <div class="top-links pull-right">
-                                <a href="#">Signup</a>
-                                <a href="#">Login</a>
+                                <%= link_to "Signup" , new_user_registration_path %>
+                                <%= link_to "Login" , new_user_session_path %>
                             </div>
                         </ul>
                       </div>
@@ -36,20 +36,19 @@
             </div>
   
     </div>
-    
-    <div class="banner-sec">
+    <%# if controller.controller_name == "" %>
+   <!-- <div class="banner-sec">
         <div class="banner-ovrly"></div>
         <div class="container">
             <div class="banner-contnt">
                 <p>WHAT IS MUNCHEEBOX?</p>
-                <h1>DELICIOUS<br> DELIVERED</h1>
+                <h1>DELICIOUS<br>DELIVERED</h1>
                 <a class="arrow-wrap" href="#sec-2">
-                    <span class="d-arrow"><%=image_tag "down-arrow.png" , width: "16"  %></span>
+                    <span class="d-arrow"><%#=image_tag "down-arrow.png" , width: "16"  %></span>
                 </a>
             </div>
         </div>
         
-    </div>
-    
+    </div> -->
+    <%# end %>
 </header>
-<% end %>

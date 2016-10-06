@@ -16,12 +16,12 @@
                         <input type="text" class="addr-field" placeholder="Zip Code">
                     </li>
                     <li class="aply-btn see-menu">
-                       
-                        <%= link_to "See the Menu", { :controller => "daily_menu", :action => "index"}, class: 'apply-bttn addres-btn menu-btn1' %>
+                      
+                        <%= link_to "See the Menu", :action => 'index1', class: 'apply-bttn addres-btn menu-btn1' %>
                         <a href="#" class="menu-btn2"><span><i class="fa fa-facebook" aria-hidden="true"></i></span>Continue with facebook
                         </a>
                     </li> 
-                    <p class="login-txt">if you have already account then <a href="#">login here</a><br><br>
+                    <p class="login-txt">if you have already account then <%= link_to "Login" , new_user_session_path %><br><br>
                     By clicking "See the Menu" or "Continue with Facebook" <br>you agree to our <a href="#">Terms & Conditions</a></p>
                 </ul>    
             </form>
