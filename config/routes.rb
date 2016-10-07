@@ -2,7 +2,7 @@ Rails.application.routes.draw do
   
 
   root 'welcome#index'
-  get 'welcome/index1'
+  get 'welcome/check_current_user'
   get 'daily_menu/index' => 'daily_menu#index'
   devise_for :users
 

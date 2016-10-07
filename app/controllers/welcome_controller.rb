@@ -5,9 +5,7 @@ class WelcomeController < ApplicationController
 
   end
 
-  def index1
-
-
+  def check_current_user
   	if current_user.present?
   		redirect_to daily_menu_index_path 
   	else
