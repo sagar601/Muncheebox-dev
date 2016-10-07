@@ -1,6 +1,5 @@
 
 <header>
-
     <div class="header-top">
             <div class="top-nav2 top-nav">
                 <div class="logo">
@@ -23,10 +22,17 @@
                                 <a href="#">How it works</a>
                                 <a href="#">Gift</a>
                             </div>
-                            <div class="top-links pull-right">
+
+                            <% if current_user.present? %>
+
+                            <% else %>
+                              <div class="top-links pull-right">
                                 <%= link_to "Signup" , new_user_registration_path %>
                                 <%= link_to "Login" , new_user_session_path %>
-                            </div>
+                              </div>
+                            <% end %>
+
+                            
                         </ul>
                       </div>
                     <!--/.nav-collapse -->
@@ -34,7 +40,6 @@
                   </nav>                
             
             </div>
-  
     </div>
     <%# if controller.controller_name == "" %>
    <!-- <div class="banner-sec">
